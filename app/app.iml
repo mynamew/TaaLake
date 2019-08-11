@@ -175,5 +175,9 @@
     <orderEntry type="module" module-name="httplibrary" />
     <orderEntry type="module" module-name="mvplibrary" />
     <orderEntry type="module" module-name="imageloader" />
+    <orderEntry type="module" module-name="utilslibrary" />
+    <orderEntry type="module" module-name="httplibrary" />
+    <orderEntry type="module" module-name="mvplibrary" />
+    <orderEntry type="module" module-name="imageloader" />
   </component>
 </module>
